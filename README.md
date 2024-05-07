@@ -1,4 +1,4 @@
-# Rift-Theme-for-Obsidian
+# RiftTheme for Obsidian
 ## English
 This theme is a personal project that I'm working on during my free time, I want to custom Obsidian to make him more... Me-friendly, what does it means ? It means that I want it to fit *my needs* and *my wishes*.
 
