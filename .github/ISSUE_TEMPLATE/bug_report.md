@@ -1,27 +1,24 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Report us a bug you've met so we can patch it ASAP.
+title: 'Bug report N°x : name'
 labels: bug
 assignees: ''
 
 ---
 
-# Issue : *replace this by the name*
+# What's the bug ?
 Give a little more explanation about the bug, stay clear and concise as much as possible.
 
-# To Reproduce
-Step-by-step walk through on how to reproduce this bug.
-- ...
+# How to reproduce the bug ?
+I've met this bug while... Here is how I've done :
+- 
 
-# Expected behavior
+# What's the expected behavior ?
 A clear and concise description of what you expected to happen.
 
 # How to patch it ?
-If you know any way to patch this bug, tell us how would *you* do ?
+If you know any way or have any trail on how to patch this bug, tell us how would *you* do ? (No development skill required.)
 
 # Screenshots
 If applicable, add screenshots to help explain your problem.
-
-# Additional context
-How you met this bug.
