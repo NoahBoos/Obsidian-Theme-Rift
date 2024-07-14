@@ -7,8 +7,8 @@
     --titlebar-background: #1a1b26;
     --titlebar-background-focused: #171722;
 
-    --color-accent: #FDE74C;
-    --color-accent-hovered: #f1d329;
+    --color-accent: #c23ba8;
+    --color-accent-hovered: #cc5fb6;
 
     --link-color: var(--color-accent);
     --link-color-hover: var(--color-accent-hovered);
@@ -35,22 +35,22 @@
     /* Basic text color */
     --text-normal: #FFFFFF;
     /* Bold text color */
-    --bold-color: #fdd44c;
+    --bold-color: #ff4fdc;
     /* Bold text weight */
     --bold-weight: 700;
     /* Italic text color */
-    --italic-color: #fdb64c;
+    --italic-color: #f93fff;
 
     /********************************************/
     /* Header related */
     /********************************************/
     /* Header related color */
-    --h1-color: #FDE74C;
-    --h2-color: #f0dd52;
-    --h3-color: #eedd5a;
-    --h4-color: #e9d965;
-    --h5-color: #e4d66b;
-    --h6-color: #e6d977;
+    --h1-color: #c23ba8;
+    --h2-color: #cb5cb3;
+    --h3-color: #d379be;
+    --h4-color: #da94c9;
+    --h5-color: #e0aed4;
+    --h6-color: #e5c8de;
     
     /********************************************/
     /* Inline Title related */
@@ -127,3 +127,16 @@
     --graph-node-tag: #5dbcd2;
     --graph-line: #26798c;
 } */
+
+/* Justifying text */
+/* reading mode */
+.markdown-preview-view p {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+/* source view and live preview */
+.markdown-source-view.mod-cm6 .cm-line {
+	text-align: justify;
+	text-justify: inter-word;	
+}
